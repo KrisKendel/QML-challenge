@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>main.xml</file>
+        <file>Images/memento.png</file>
+        <file>Images/mrnobody.png</file>
+        <file>Images/pearlharbor.png</file>
+        <file>Images/shutterisland.png</file>
+        <file>Images/sourcecode.png</file>
+    </qresource>
+</RCC>

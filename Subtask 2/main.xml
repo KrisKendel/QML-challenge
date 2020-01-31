@@ -1,0 +1,40 @@
+<?xml version= "1.0" encoding= "UTF-8"?>
+<rss version="2.0">
+        <movies>
+                <movie1>
+                        <movie_name>Memento</movie_name>
+                        <movie_year>2000</movie_year>
+                        <movie_rating>8.4/10</movie_rating>
+                        <movie_description>A man with short-term memory loss attempts to track down his wife's murderer.</movie_description>
+                        <source_pic>Images/memento.png</source_pic>
+                </movie1>
+                <movie2>
+                        <movie_name>Mr Nobody</movie_name>
+                        <movie_year>2009</movie_year>
+                        <movie_rating>7.8/10</movie_rating>
+                        <movie_description>A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision.</movie_description>
+                        <source_pic>Images/mrnobody.png</source_pic>
+                </movie2>
+                <movie3>
+                        <movie_name>Pearl Harbor</movie_name>
+                        <movie_year>2001</movie_year>
+                        <movie_rating>6.2/10</movie_rating>
+                        <movie_description>A tale of war and romance mixed in with history. The story follows two lifelong friends and a beautiful nurse who are caught up in the horror of an infamous Sunday morning in 1941.</movie_description>
+                        <source_pic>Images/pearlharbor.png</source_pic>
+                </movie3>
+                <movie4>
+                        <movie_name>Shutter Island</movie_name>
+                        <movie_year>2010</movie_year>
+                        <movie_rating>8.1/10</movie_rating>
+                        <movie_description>In 1954, a U.S. Marshal investigates the disappearance of a murderer who escaped from a hospital for the criminally insane.</movie_description>
+                        <source_pic>Images/shutterisland.png</source_pic>
+                </movie4>
+                <movie5>
+                        <movie_name>Source Code</movie_name>
+                        <movie_year>2011</movie_year>
+                        <movie_rating>7.5/10</movie_rating>
+                        <movie_description>A soldier wakes up in someone else's body and discovers he's part of an experimental government program to find the bomber of a commuter train within 8 minutes.</movie_description>
+                        <source_pic>Images/sourcecode.png</source_pic>
+                </movie5>
+        </movies>
+</rss>
