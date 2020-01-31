@@ -1,1 +1,1 @@
-Practice challenge. Simple Movie browser in QML
+Simple Movie browser in QML
